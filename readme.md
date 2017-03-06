@@ -1,9 +1,17 @@
-usage: nugfficiency.py [-h] N
+##Nuggficiency
 
-Optimize your Nuggets
+_**Optimize your Nuggets**_
 
-positional arguments:
-  N           The amount of nuggets you want to optimize
 
-optional arguments:
-  -h, --help  show this help message and exit
+**Usage:**
+
+    python nugfficiency.py [-h] N
+
+
+**Positional arguments:**
+
+     N           The amount of nuggets you want to optimize
+
+**Optional arguments:**
+
+     -h, --help  show this help message and exit
