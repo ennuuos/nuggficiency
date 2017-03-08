@@ -5,7 +5,7 @@ _**Optimize your Nuggets**_
 
 **Usage:**
 
-    python nugfficiency.py [-h] N
+    python nuggficiency.py [-h] N
 
 
 **Positional arguments:**
